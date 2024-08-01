@@ -1,0 +1,122 @@
+[
+    {
+        "Pos": "1",
+        "Teams": "kkrkolkata knight riders",
+        "Matches": "14",
+        "Won": "9",
+        "Lost": "3",
+        "Tied": "0",
+        "NR": "2",
+        "Points": "20",
+        "NRR": "+1.428",
+        "Series Form": "AAWWW"
+    },
+    {
+        "Pos": "2",
+        "Teams": "srhsunrisers hyderabad",
+        "Matches": "14",
+        "Won": "8",
+        "Lost": "5",
+        "Tied": "0",
+        "NR": "1",
+        "Points": "17",
+        "NRR": "+0.414",
+        "Series Form": "WAWLW"
+    },
+    {
+        "Pos": "3",
+        "Teams": "rrrajasthan royals",
+        "Matches": "14",
+        "Won": "8",
+        "Lost": "5",
+        "Tied": "0",
+        "NR": "1",
+        "Points": "17",
+        "NRR": "+0.273",
+        "Series Form": "ALLLL"
+    },
+    {
+        "Pos": "4",
+        "Teams": "rcbroyal challengers bengaluru",
+        "Matches": "14",
+        "Won": "7",
+        "Lost": "7",
+        "Tied": "0",
+        "NR": "0",
+        "Points": "14",
+        "NRR": "+0.459",
+        "Series Form": "WWWWW"
+    },
+    {
+        "Pos": "5",
+        "Teams": "cskchennai super kings",
+        "Matches": "14",
+        "Won": "7",
+        "Lost": "7",
+        "Tied": "0",
+        "NR": "0",
+        "Points": "14",
+        "NRR": "+0.392",
+        "Series Form": "LWLWL"
+    },
+    {
+        "Pos": "6",
+        "Teams": "dcdelhi capitals",
+        "Matches": "14",
+        "Won": "7",
+        "Lost": "7",
+        "Tied": "0",
+        "NR": "0",
+        "Points": "14",
+        "NRR": "-0.377",
+        "Series Form": "WLWLW"
+    },
+    {
+        "Pos": "7",
+        "Teams": "lsglucknow super giants",
+        "Matches": "14",
+        "Won": "7",
+        "Lost": "7",
+        "Tied": "0",
+        "NR": "0",
+        "Points": "14",
+        "NRR": "-0.667",
+        "Series Form": "WLLLW"
+    },
+    {
+        "Pos": "8",
+        "Teams": "gtgujarat titans",
+        "Matches": "14",
+        "Won": "5",
+        "Lost": "7",
+        "Tied": "0",
+        "NR": "2",
+        "Points": "12",
+        "NRR": "-1.063",
+        "Series Form": "AAWLL"
+    },
+    {
+        "Pos": "9",
+        "Teams": "pbkspunjab kings",
+        "Matches": "14",
+        "Won": "5",
+        "Lost": "9",
+        "Tied": "0",
+        "NR": "0",
+        "Points": "10",
+        "NRR": "-0.353",
+        "Series Form": "LWLLW"
+    },
+    {
+        "Pos": "10",
+        "Teams": "mimumbai indians",
+        "Matches": "14",
+        "Won": "4",
+        "Lost": "10",
+        "Tied": "0",
+        "NR": "0",
+        "Points": "8",
+        "NRR": "-0.318",
+        "Series Form": "LLWLL"
+    }
+]
